@@ -20,7 +20,7 @@ export default function Home() {
             </h1>
             <a
               href="#"
-              className=" p-4 w-3/4 bg-orange-200 text-center text-2xl"
+              className=" p-4 w-3/4 bg-orange-300 text-center text-2xl"
             >
               Explore more
             </a>
